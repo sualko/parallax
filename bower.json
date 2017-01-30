@@ -1,0 +1,17 @@
+{
+  "name": "parallax",
+  "main": "index.js",
+  "homepage": "https://github.com/sualko/parallax",
+  "authors": [
+    "sualko <klaus@jsxc.org>"
+  ],
+  "description": "jQuery plugin to add parallax background image scrolling effect to elements",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
